@@ -1,0 +1,8 @@
+# Conformal Prediction min_prob values for calibration
+# Format: key=value (one per line)
+# Comments start with #
+
+target_min_prob=0.2
+mode_min_prob=0.5
+
+
